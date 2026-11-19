@@ -1,3 +1,4 @@
 .env
 ragenv
 .gitignore
+data\faiss_index
